@@ -2,19 +2,14 @@
 <h3 align="center">A CSE enthusiast and aspirant of better future.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **building software that can benefit real world problems**
+🔭 **Currently Working On:** Building software that solves real-world problems.  
+🌱 **Learning:** Backend development & databases.  
+👯 **Open to Collaborate On:** Projects that align with my interests.  
+🤝 **Looking for Help With:** Backend & database optimization.  
+💬 **Ask Me About:** Anything you think I can help with!  
+📫 **Reach Me At:** mail.prashantg0@gmail.com  
+⚡ **Fun Fact:** A night owl with the special ability to sleep during lectures. 😆  
 
-- 🌱 I’m currently learning **backend and database**
-
-- 👯 I’m looking to collaborate on **my projects involving equal interest**
-
-- 🤝 I’m looking for help with **database and backend**
-
-- 💬 Ask me about **anything you feel i can answer**
-
-- 📫 How to reach me **work.prashant@gmail.com**
-
-- ⚡ Fun fact **night owl with abilities to sleep during lecture hours.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
