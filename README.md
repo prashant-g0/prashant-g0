@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prashant Gupta</h1>
 <h3 align="center">A CSE enthusiast and aspirant of a better future.</h3>
-[![CV](https://img.shields.io/badge/CV-View-informational?style=for-the-badge&logo=read-the-docs&color=blue)](https://drive.google.com/file/d/1cZDWoqngyE-K_28qM9pc_VVizCKyZx9d/view?usp=sharing)  
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1cZDWoqngyE-K_28qM9pc_VVizCKyZx9d/view?usp=sharing)  
-[📄 View My CV](https://drive.google.com/file/d/1cZDWoqngyE-K_28qM9pc_VVizCKyZx9d/view?usp=sharing)  
-[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1cZDWoqngyE-K_28qM9pc_VVizCKyZx9d/view?usp=sharing)  
-
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
 </p>
 
+<a href="https://drive.google.com/file/d/1cZDWoqngyE-K_28qM9pc_VVizCKyZx9d/view?usp=sharing" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Download_CV-Click_Here-9cf?style=for-the-badge&logo=googledrive&logoColor=white&color=orange" alt="Download CV">
+</a>
 
 ### 🧑‍💻 About Me  
 - 🎓 **CS Student | 2nd Year** | Building cool projects  
