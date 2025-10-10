@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prashant Gupta</h1>
-<h3 align="center">A CSE enthusiast and aspirant of a better future.</h3>
+<h3 align="center">A Developer and Problem Solver.</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
 </p>
 
-<a href="https://drive.google.com/file/d/1O9P51kqQz7eK9c-vnypM_MmYUWT1lOop/view?usp=sharing" target="_blank" style="text-decoration: none;">
+<a href="https://drive.google.com/file/d/1O9P51kqQz7eK9c-vnypM_MmYUWT1lOop/view?usp=sharing" target="_blank" style="text-decoration: none; download">
   <img src="https://img.shields.io/badge/Download_CV-Click_Here-9cf?style=for-the-badge&logo=googledrive&logoColor=white&color=orange" alt="Download CV">
 </a>
 
@@ -14,9 +14,6 @@
 - 💡 **DSA | Web Dev | Open Source | AI & ML**
 - 🔭 **Building softwares that solves real-world problems.**   
 - 🌱 **Learning:** Backend development & databases.  
-- 👯 **Open to Collaborate On:** Projects that align with my interests.  
-- 🤝 **Looking for Help With:** Backend & database optimization.  
-- 💬 **Ask Me About:** Anything you think I can help with!  
 - 📫 **Reach Me At:** [mail.prashantg0@gmail.com](mailto:mail.prashantg0@gmail.com)  
 - ⚡ **Fun Fact:** A night owl with the special ability to sleep during lectures. 😆  
 
@@ -32,7 +29,7 @@
 ### 📲 Connect With Me  
 <p align="left">
 <a href="https://linkedin.com/in/prashant-g0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>  
-<a href="https://instagram.com/prashantg.0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+<a href="https://instagram.com/prash.coder" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
 <a href="https://www.leetcode.com/prashantg-0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40"/></a>
 <a href="https://www.hackerrank.com/profile/mail_prashantg0" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Hackerrank" height="30" width="40"/></a> &nbsp
 <a href="https://www.geeksforgeeks.org/user/mailprasu0t8/" target="_blank"><img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" height="30" width="40"/></a>
