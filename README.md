@@ -11,9 +11,10 @@
 
 ### 🧑‍💻 About Me  
 - 🎓 **CS Student | 3rd Year** | Building cool projects  
-- 💡 **DSA | Web Dev | Open Source | AI & ML**
+- 🪴 **Smart India Hackathon'25 Finalist**  
+- 💡 **Engineer | AI/ML | DSA | Open Source |**  
 - 🔭 **Building softwares that solves real-world problems.**   
-- 🌱 **Learning:** Backend development & databases.  
+- 🌱 **Discovering:** Machine Learning | Backend development | Databases |    
 - 📫 **Reach Me At:** [mail.prashantg0@gmail.com](mailto:mail.prashantg0@gmail.com)  
 - ⚡ **Fun Fact:** A night owl with the special ability to sleep during lectures. 😆  
 
