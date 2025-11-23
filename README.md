@@ -46,14 +46,8 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=prashant-g0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=prashant-g0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=prashant-g0&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-g0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=prashant-g0&theme=dark&hide_border=false)<br/>
 
 ---
-
-
-<!---
-prashant-g0/prashant-g0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
