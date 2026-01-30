@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Gupta</h1>
 <h3 align="center">A Developer and Problem Solver.</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
-</p>
+
 
 <a href="https://drive.google.com/file/d/1O9P51kqQz7eK9c-vnypM_MmYUWT1lOop/view?usp=sharing" target="_blank" style="text-decoration: none; download">
   <img src="https://img.shields.io/badge/Download_CV-Click_Here-9cf?style=for-the-badge&logo=googledrive&logoColor=white&color=orange" alt="Download CV">
