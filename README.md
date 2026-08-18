@@ -19,9 +19,9 @@
 ---
 
 ### 🚀 Popular Projects  
+- 🔗 **[urllio - URL Shortener](https://urllio.vercel.app/)** - A modern URL shortener to support guest and user-based shortening, JWT authentication, password reset, QR codes, link expiration, click analytics, and link management through a responsive dashboard.
 - 💗 **[Blush - Secure Ephemeral Messaging Vault](https://blushnow.streamlit.app/)** - Designed a secure, ephemeral messaging system for storing unsent messages with automatic deletion after 6 hours using state-based lifecycle management.  
-- 🚀 **[Bhojnalaya Canteen System](https://github.com/prashant-g0/bhojnalaya_2.0)** - An online canteen system with user friendly interface, menu page, payment page and bill page. Hero part of the project is the bill pages comes with QR code which contains your order and payment details, which when scanned on the counter will display your order, payment and bill validity details.
-  [Bhojnalaya-demo](https://bhojnalayaapp.netlify.app/) 
+- 🚀 **[Bhojnalaya Canteen System](https://bhojnalayaapp.netlify.app/)** - An online canteen system with user friendly interface, menu page, payment page and bill page. Hero part of the project is the bill pages comes with QR code which contains your order and payment details, which when scanned on the counter will display your order, payment and bill validity details.
 - ⚙️ **[Breast Cancer Detection Using Machine Learning](https://github.com/prashant-g0/breast-cancer-detection-using-machine-learning)** - A Flask-based web app that takes manual input or pdf input of medical report data, analyzes it and provides output predicting whether the tumor is cancerous or non-cancerous. 
 
 ---
