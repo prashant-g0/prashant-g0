@@ -21,8 +21,6 @@
 - 🎓 CS major, final year - building things that outlive the semester
 - 🏆 Smart India Hackathon '25 Finalist
 - 💻 Software Development Intern (Backend)
-- 🧠 Interests: AI/ML - DSA - Backend - Engineering
-- 🔭 Currently building software that solves real-world problems
 - 💻 Explore my workshops at [Prash Coder Workshop](https://prash-coder-workshops.vercel.app/workshops)
 - 📫 Reach me at [mail.prashantg0@gmail.com](mailto:mail.prashantg0@gmail.com)
 - ⚡ Fun fact: `git commit -m "small fix"` → 47 files changed 😆
