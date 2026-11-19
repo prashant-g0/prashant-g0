@@ -58,7 +58,12 @@
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" />
   </a>
   <a href="#" title="CodeIgniter">
-    <img src="https://skillicons.dev/icons?i=codeigniter" alt="CodeIgniter" width="40" />
+    <img 
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_0MISIlMcvqJze9oxDbqDE9TtbBORv1TYj55SKsd5g&s=10" 
+      alt="CodeIgniter" 
+      width="40" 
+      style="border-radius: 8px;" 
+    />
   </a>
   <a href="#" title="MySQL">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" />
